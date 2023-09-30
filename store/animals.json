@@ -1,0 +1,23 @@
+[
+  {
+    "id": "eb2be80d-3f37-4e7b-b2bd-e547e9420f52",
+    "name": "Bear",
+    "type": "wild",
+    "color": "brown",
+    "foot": 2
+  },
+  {
+    "id": "9ca87df8-2c12-4909-9cfb-55e07630309b",
+    "name": "Rabbit",
+    "type": "not-wild",
+    "color": "White",
+    "foot": 4
+  },
+  {
+    "id": "3ff55f72-8523-4d97-aaa9-3a38aa98310d",
+    "name": "tiger",
+    "type": "wild",
+    "color": "White-black",
+    "foot": 4
+  }
+]

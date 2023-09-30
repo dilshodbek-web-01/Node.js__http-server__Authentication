@@ -1,0 +1,20 @@
+[
+    {
+        "id": "7eb09e6d-28d6-40bf-b8ae-4042d46dd717",
+        "name": "apple",
+        "kilo": 2500,
+        "price": "10000so`m"
+    },
+    {
+        "id": "91cfee75-3fad-48e4-ae52-775354f0b2b6",
+        "name": "uzum",
+        "kilo": 2700,
+        "price": "35000so`m"
+    },
+    {
+        "id": "ef8efc15-12b1-4c06-a386-652d2c55cffc",
+        "name": "peach",
+        "kilo": 2500,
+        "price": "15000so`m"
+    }
+]

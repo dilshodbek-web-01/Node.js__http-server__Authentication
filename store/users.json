@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d4823936-c47f-43aa-81c3-6417bec40c51",
+    "user": "Kamolbek",
+    "age": 18,
+    "gender": "Male",
+    "Education": "Najot Ta`lim"
+  },
+  {
+    "id": "7b5d0e1a-53cf-424d-9af5-797f188c73f2",
+    "user": "Dilshodbek",
+    "age": 24,
+    "gender": "Male",
+    "Education": "Najot Ta`lim"
+  },
+  {
+    "id": "aafe07d9-7663-45f2-816a-bcf17aa764a2",
+    "user": "Lochinbek",
+    "age": 22,
+    "gender": "Male",
+    "Education": "Najot Ta`lim",
+    "userID": "0a175340-bde3-4f42-a180-fdd0d5e192af"
+  },
+  {
+    "id": "1fa3bb7d-51c2-4e7e-a7d1-4e0d4215f56c",
+    "user": "Ismoil",
+    "age": 18,
+    "gender": "Male",
+    "Education": "Najot Ta`lim",
+    "userID": "3153aa82-9513-453c-97c0-b7d74e911556"
+  }
+]

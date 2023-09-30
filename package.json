@@ -1,0 +1,20 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main/app.js",
+    "dev": "nodemon ./main/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0"
+  }
+}

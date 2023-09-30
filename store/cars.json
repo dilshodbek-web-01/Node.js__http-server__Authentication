@@ -1,0 +1,23 @@
+[
+  {
+    "id": "59b3867e-0325-40c0-b5b3-de18f043314f",
+    "name": "Coblat",
+    "color": "white",
+    "price": "10000$",
+    "type": "easy"
+  },
+  {
+    "id": "823f10c3-8d42-4f94-9c6e-6c5925a3f191",
+    "name": "Malibu",
+    "color": "white",
+    "price": "30000$",
+    "type": "easy"
+  },
+  {
+    "id": "1853660c-add2-448d-befc-b435e2400133",
+    "name": "Tracker",
+    "color": "blue",
+    "price": "17000$",
+    "type": "easy"
+  }
+]

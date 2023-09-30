@@ -1,0 +1,26 @@
+[
+    {
+        "id": "51bcc366-88de-4847-848e-0962ce11c7ab",
+        "userName": "Lochinbek",
+        "email": "Lochinbek@gmail.com",
+        "password": "$2a$12$dH6N/I1voIPQAMynnP.OFONm5V2jiQJrfe.WFHvO796thUkUJiIxC"
+    },
+    {
+        "id": "0a175340-bde3-4f42-a180-fdd0d5e192af",
+        "userName": "Dilshodbek",
+        "email": "Dilshodbek@gmail.com",
+        "password": "$2a$12$IGiH3aN..R1Kft5BUTqyjOUb/ysCxNlFFITOZrClC0gTvGko9kX3S"
+    },
+    {
+        "id": "3153aa82-9513-453c-97c0-b7d74e911556",
+        "userName": "Kamolbek",
+        "email": "Kamolbek@gmail.com",
+        "password": "$2a$12$d3pYib7TwwKoMNiK2XONCeTQWo00xDdfg6GN5aVhub5tB5eDwhGoC"
+    },
+    {
+        "id": "1f9a0d0c-2528-4e79-8b9c-c60a63c832db",
+        "userName": "who",
+        "email": "who@gmail.com",
+        "password": "$2a$12$w9ggpVPkcWwuOjI9DNITRuJ/EnRoGJw/5gETKoyVWTL.qpE/.os/K"
+    }
+]
